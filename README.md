@@ -1,6 +1,6 @@
 # PrimeNumberCalculatorScript
 Java script that calculates given amount of primenumbers.
-Notes: The code could be refactored more by splitting in to smaller functions and optimized.
+Notes: The code could be refactored more by splitting code into smaller functions and optimized by multithreading and profiling.
 
 Work is based on code from here https://www.javatpoint.com/prime-number-program-in-java
 ```Java
